@@ -1,4 +1,0 @@
-jupyterlab
-ipykernel
-numpy
-matplotlib
